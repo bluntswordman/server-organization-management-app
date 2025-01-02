@@ -2,7 +2,7 @@
 
 #### copy .env.example to .env in folder docker and set your environment variables
 ```bash
-cp .env.example .env
+cp docker/.env.example docker/.env
 ```
 
 #### build the docker image
